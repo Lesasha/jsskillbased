@@ -9,11 +9,12 @@ const totalBasketballScore = (freeThrow, midRange, threePointer) => {
     
     }
 };
+console.log(totalBasketballScore)
 
 
 // const totalBasketballScore = function() {
 
-//     freethrow = 1;
+//     freeThrow = 1;
 //     midRange = 2;
 //     threePointer = 3; 
 // }; 
