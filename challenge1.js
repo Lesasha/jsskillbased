@@ -11,12 +11,12 @@ const totalBasketballScore = (freeThrow, midRange, threePointer) => {
 };
 
 
-const totalBasketballScore = function() {
+// const totalBasketballScore = function() {
 
-    freethrow = 1;
-    midRange = 2;
-    threePointer = 3; 
-}; 
+//     freethrow = 1;
+//     midRange = 2;
+//     threePointer = 3; 
+// }; 
     
 
 
@@ -39,7 +39,8 @@ const itemPrice = () => {
         } else {
             console.log('Item is not in the store ')
         }
-    };
+    }
+}
 
 
 
@@ -59,5 +60,5 @@ function isLeapYear (num) {
                                         
 const random = Math.floor(Math.random() * (400) + 1) //(max - min + 1) + min
 ​
-console.log(random)
-isLeapYear(random)
+console.log(isLeapYear)
+// isLeapYear(random)
