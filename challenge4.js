@@ -9,3 +9,4 @@ const random = Math.floor(Math.random() * (400) + 1) //(max - min + 1) + min
 ​
 console.log(random)
 isLeapYear(random)
+
